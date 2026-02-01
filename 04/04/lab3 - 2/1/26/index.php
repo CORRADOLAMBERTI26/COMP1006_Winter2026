@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>Contact Our Bakery 🍰</h1>
+<h1>Contact Our Bakery</h1>
 
 <!-- Basic contact form that sends data to process.php -->
 <form action="process.php" method="post">
